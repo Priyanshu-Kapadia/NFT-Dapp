@@ -1,13 +1,21 @@
-# Sample Hardhat Project
+# First Create Node app
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
+Using the Command which initalized the package json
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+npm init
+```
+
+# Intalized the Hardhat and install Hardhat also
+
+Instal Command
+
+```shell
+npm install --save-dev hardhat
+```
+
+To create the sample project, in your project folder
+
+```shell
+npx hardhat
 ```
