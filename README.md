@@ -5,8 +5,7 @@ Using the Command which initalized the package json
 ```shell
 npm init
 ```
-
-# Intalized the Hardhat and install Hardhat also
+# Initialized the Hardhat and install Hardhat also
 
 Instal Command
 
